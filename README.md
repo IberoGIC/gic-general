@@ -1,7 +1,6 @@
-#GIC #Cibersecurity 
 # Grupo de Interés en Ciberseguridad (GIC)
 
-Bienvenido al repositorio principal del **GIC**. Este repositorio funciona como un centro de organización y enlace para todos los niveles, recursos y proyectos que realizamos dentro del grupo. Aquí encontrarás la estructura general del proyecto, así como indicaciones para colaborar y acceder a otros repositorios relacionados.
+Bienvenido al repositorio principal del **GIC**. Este repositorio funciona como un centro de organización y enlace para todos los niveles, recursos y proyectos que realizamos dentro del grupo. Aquí encontrarás la estructura general del grupo, así como indicaciones para colaborar y acceder a otros repositorios relacionados.
 
 ---
 ## 🐺 **¿Eres nuevo por aquí?**
@@ -46,6 +45,7 @@ No olvides seguirnos en nuestras redes:
 * ToDo
 
 ---
-  -,"
-c[_] 
+-,"  
+[_P
+
 
