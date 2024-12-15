@@ -2,7 +2,7 @@ Una vez conozcas el funcionamiento de **Git** para el control de versiones, este
 
 * **GitHub** es una plataforma en línea que **almacena tus repositorios Git** en la nube. Es como un **"Google Drive" para código**. Además de almacenar el código, te permite **colaborar** con otras personas, hacer revisiones de código, y gestionar proyectos de manera más fácil. GitHub usa Git para gestionar el historial y los cambios en el código.
 
-*Si aún no estás familiarizado con el funcionamiento de Git, o no lo tienes instalado en tu equipo, consulta este manual:* [git-manual.md](https://github.com/IberoGIC/gic-general/blob/main/git-manual.md)
+*Si aún no estás familiarizado con el funcionamiento de Git, o no lo tienes instalado en tu equipo, consulta este manual:* [git-manual.md](https://github.com/IberoGIC/gic-general/blob/main/Resources/git-manual.md)
 
 ---
 ## **📩 Crea una cuenta en GitHub**
@@ -189,7 +189,7 @@ Cuando tu PR sea revisado y aprobado por otros miembros, se fusionará en la ram
 ---
 ## **🆘 Ayuda y Referencias**
 
-* Manual de instalación y uso de Git: [git-manual](https://github.com/IberoGIC/gic-general/blob/main/git-manual.md)
+* Manual de instalación y uso de Git: [git-manual](https://github.com/IberoGIC/gic-general/blob/main/Resources/git-manual.md)
 	
 * Hola Mundo en GitHub: [Tutorial Hola Mundo GitHub](https://docs.github.com/es/get-started/start-your-journey/hello-world)
 	

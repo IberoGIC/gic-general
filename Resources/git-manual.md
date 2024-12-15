@@ -170,7 +170,7 @@ Build/     # Ignora el directorio "Build/" y sus contenidos
     
 - Comandos básicos de Git en una página: [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)    
 
-Una vez te familiarices con el funcionamiento básico de **Git**, es posible que quieras integrarlo con **GitHub**, aquí hay un manual para ayudarte: [github-manual.md](https://github.com/IberoGIC/gic-general/blob/main/github-manual.md)
+Una vez te familiarices con el funcionamiento básico de **Git**, es posible que quieras integrarlo con **GitHub**, aquí hay un manual para ayudarte: [github-manual.md](https://github.com/IberoGIC/gic-general/blob/main/Resources/github-manual.md)
 
 Si tienes dudas, no dudes en preguntar a otros miembros del GIC y los profesores que nos apoyan.
 
