@@ -1,7 +1,6 @@
 Una vez conozcas el funcionamiento de **Git** para el control de versiones, este manual te ayudará a comenzar con **GitHub**, una herramienta poderosa para colaborar en proyectos y compartir código. 
 
-***GitHub***
-	**GitHub** es una plataforma en línea que **almacena tus repositorios Git** en la nube. Es como un **"Google Drive" para código**. Además de almacenar el código, te permite **colaborar** con otras personas, hacer revisiones de código, y gestionar proyectos de manera más fácil. GitHub usa Git para gestionar el historial y los cambios en el código.
+* ***GitHub** es una plataforma en línea que **almacena tus repositorios Git** en la nube. Es como un **"Google Drive" para código**. Además de almacenar el código, te permite **colaborar** con otras personas, hacer revisiones de código, y gestionar proyectos de manera más fácil. GitHub usa Git para gestionar el historial y los cambios en el código.
 
 *Si aún no estás familiarizado con el funcionamiento de Git, o no lo tienes instalado en tu equipo, consulta este manual:* [git-manual.md](https://github.com/IberoGIC/gic-general/blob/main/git-manual.md)
 
@@ -27,8 +26,7 @@ Cuando contribuyas a un proyecto, primero haz un '*Fork*' del repositorio. Esto 
 - Ve al repositorio con el que deseed trabajar en GitHub.
 - Haz clic en el botón '*Fork*' (en la parte superior derecha).
 
-***Fork*** 
-	Un '*Fork*' en GitHub es una **copia completa** de un repositorio (proyecto) que pertenece a otra persona u organización en **tu cuenta de GitHub**. Permite trabajar en el proyecto original sin afectar el código principal y guarda tus cambios en tu cuenta para que no se conserven solo de manera local.
+* Un **'Fork'** en GitHub es una copia completa de un repositorio (proyecto) que pertenece a otra persona u organización en tu cuenta de GitHub. Permite trabajar en el proyecto original sin afectar el código principal y guarda tus cambios en tu cuenta para que no se conserven solo de manera local.
 
 ### 2. **Clona un repositorio**
 
@@ -73,18 +71,17 @@ Cuando clonas un repositorio usando Git tus cambios no se sincronizan al reposit
 	```
 *Para evitar conflictos, asegúrate de tener los últimos cambios del repositorio remoto.*
 
-***Fetch***
-	**Fetch** es un comando que **descarga** los cambios más recientes del repositorio remoto (por ejemplo, GitHub) a tu repositorio local, **pero no los aplica automáticamente** a tus archivos de trabajo.
+* **Fetch** es un comando que **descarga** los cambios más recientes del repositorio remoto a tu repositorio local, **pero no los aplica automáticamente** a tus archivos de trabajo.
 	- Actualiza la información sobre el repositorio remoto.
 	- Te permite ver si hay cambios nuevos (commits, ramas, etc.) sin mezclarlos aún con tu trabajo local.
-***Checkout***
-	**Checkout** es un comando que te permite **moverte entre ramas** o **restaurar archivos específicos** en tu repositorio.
-***Merge***
-	**Merge** es el proceso de **combinar los cambios** de una rama con otra.
+
+* **Checkout** es un comando que te permite **moverte entre ramas** o **restaurar archivos específicos** en tu repositorio.
+
+* **Merge** es el proceso de **combinar los cambios** de una rama con otra.
 	- Une el historial de dos ramas, integrando los cambios en una sola.
 	- Se usa, por ejemplo, para fusionar una rama de desarrollo con la rama principal.
-***Push***
-	**Push** es el comando que **envía tus cambios locales** al repositorio remoto.
+
+* **Push** es el comando que **envía tus cambios locales** al repositorio remoto.
 
 ### 4. **Crea ramas**
 

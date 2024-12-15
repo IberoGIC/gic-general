@@ -1,7 +1,6 @@
 Este manual proporciona una guía sencilla y práctica para configurar y usar **Git**. 
 
-***Git***
-	**Git** es un **sistema de control de versiones** que te permite llevar un registro de los cambios que haces en tu código (o archivos). Es como un historial donde puedes ver qué cambios se hicieron, cuándo los hicieron y quién los hizo. Además, te permite **volver a versiones anteriores** si algo sale mal .
+* **Git** es un sistema de control de versiones que te permite llevar un registro de los cambios que haces en tu código (o archivos). Es como un historial donde puedes ver qué cambios se hicieron, cuándo los hicieron y quién los hizo. Además, te permite volver a versiones anteriores si algo sale mal .
 
 
 ---
