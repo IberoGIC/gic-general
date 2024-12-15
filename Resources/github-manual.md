@@ -1,6 +1,6 @@
 Una vez conozcas el funcionamiento de **Git** para el control de versiones, este manual te ayudará a comenzar con **GitHub**, una herramienta poderosa para colaborar en proyectos y compartir código. 
 
-* ***GitHub** es una plataforma en línea que **almacena tus repositorios Git** en la nube. Es como un **"Google Drive" para código**. Además de almacenar el código, te permite **colaborar** con otras personas, hacer revisiones de código, y gestionar proyectos de manera más fácil. GitHub usa Git para gestionar el historial y los cambios en el código.
+* **GitHub** es una plataforma en línea que **almacena tus repositorios Git** en la nube. Es como un **"Google Drive" para código**. Además de almacenar el código, te permite **colaborar** con otras personas, hacer revisiones de código, y gestionar proyectos de manera más fácil. GitHub usa Git para gestionar el historial y los cambios en el código.
 
 *Si aún no estás familiarizado con el funcionamiento de Git, o no lo tienes instalado en tu equipo, consulta este manual:* [git-manual.md](https://github.com/IberoGIC/gic-general/blob/main/git-manual.md)
 
