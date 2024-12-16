@@ -52,38 +52,6 @@ Estos son los hitos y actividades planeadas para el desarrollo del grupo a lo la
 
 ---
 
-## **🌟 Proyectos Actuales y Futuros**
-
-### **Drone Hacking**
-- **Objetivo**: Analizar vulnerabilidades en los protocolos de comunicación de drones y explorar vectores de ataque como GPS spoofing o inyección de comandos.
-- **Actividades**:
-  - Interceptar y analizar señales de comunicación.
-  - Desarrollo de herramientas de seguridad para mejorar la protección de los drones.
-- **Producto**: Reporte y presentación de hallazgos en colaboración con otros grupos.
-
-### **Participación en CTFs**
-- **Objetivo**: Formar y preparar equipos para competencias CTF nacionales e internacionales.
-- **Actividades**:
-  - Prácticas semanales de resolución de retos CTF.
-  - Desarrollo de estrategias para eventos en vivo.
-- **Producto**: Repositorio de reportes con soluciones documentadas.
-
-### **Hardware Hacking e IoT**
-- **Objetivo**: Explorar vulnerabilidades en sistemas embebidos, microcontroladores y dispositivos IoT.
-- **Actividades**:
-  - Análisis de protocolos de hardware.
-  - Desarrollo de exploits para dispositivos comerciales.
-- **Producto**: Proyectos prácticos con documentación.
-
-### **Ataque y Defensa con IA**
-- **Objetivo**: Investigar el uso de **inteligencia artificial** como vector de ataque o defensa.
-- **Actividades**:
-  - Desarrollo de modelos de IA para detección de malware o phishing.
-  - Simulación de ataques potenciados con IA.
-- **Producto**: Herramientas o prototipos aplicables en ciberseguridad.
-
----
-
 ## **🔄 Innovación y Colaboración**
 
 - **Participación en proyectos interdisciplinarios**: Colaborar con otros grupos de interés para ampliar las aplicaciones prácticas (Ejemplo: Drones, IoT).
