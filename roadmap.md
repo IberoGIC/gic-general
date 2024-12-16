@@ -2,7 +2,7 @@ Este documento presenta el plan de trabajo y los objetivos generales del **GIC (
 
 ---
 
-## **🔍 Objetivos Generales**
+## **🔍 Objetivos**
 
 - Desarrollar habilidades prácticas y teóricas en ciberseguridad.
 - Preparar a los miembros para competencias nacionales e internacionales.
@@ -29,26 +29,26 @@ La progresión del grupo está estructurada en **5 niveles**, cada uno con temas
 Estos son los hitos y actividades planeadas para el desarrollo del grupo a lo largo del año:
 
 ### **Q1 (Enero - Abril)**
-- Finalizar la formación en **Nivel 1** para los nuevos miembros.
-- Finalizar la formación en **Nivel 3** para los miembros actuales.
-- Finalizar el proyecto de **Drone Hacking**
+- Fin de la formación del **Nivel 1** para los nuevos miembros.
+- Fin de la formación del **Nivel 3** para los miembros actuales.
+- Fin del proyecto de **Drone Hacking**.
 - Inicio **CTF challenges** y write-ups.
 - Participación en un **CTF** local o simulacro interno.
 
 ### **Q2 (Mayo - Agosto)**
 - Participación en un **CTF** internacional en línea.
 - Preparación de un laboratorio virtual para prácticas de explotación.
-- Organización equipo **CSAW**
-- Inicio preparación **CSAW**
-- Write-Up en desafíos **CTF** para miembros del **Nivel 1 -> Nivel 2**
+- Organización de un equipo para **CSAW**.
+- Inicio de la preparación para **CSAW**.
+- Write-Up en desafíos **CTF** para los miembros que pasan al **Nivel 2**.
 
 
 ### **Q3 (Septiembre - Diciembre)**
-* Fin preparación **CSAW**
-* Participación **CSAW** (06/09 - 08/09)
-- Finalizar la formación en **Nivel 1**, **Nivel 2** y **Nivel 4** respectivamente.
-- Preparación de CTF básicos para miembros del **Nivel 2**
-- Preparación eventos **CTF internacionales avanzados** .
+* Fin de la preparación para **CSAW**.
+* Participación en **CSAW** (06/09 - 08/09).
+- Fin de la formación de **Nivel 1**, **Nivel 2** y **Nivel 4** respectivamente.
+- Preparación de CTF básicos para miembros del **Nivel 2**.
+- Preparación para eventos **CTF internacionales avanzados**.
 
 ---
 

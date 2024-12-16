@@ -1,4 +1,4 @@
-Este documento establece las **normas, condiciones y pautas** para los miembros activos del **Grupo de Interés en Ciberseguridad (GIC)**, con el objetivo de garantizar una participación ordenada, colaborativa y alineada con los valores del grupo.
+Este documento establece las **normas, condiciones y pautas** para los miembros activos del **Grupo de Interés en Ciberseguridad (GIC)** y sus colaboradores, con el objetivo de garantizar una participación ordenada, colaborativa y alineada con los valores del grupo.
 
 ---
 
@@ -27,8 +27,11 @@ Para ser miembro activo del GIC, es necesario cumplir con las siguientes condici
 4. **Progreso por Niveles**: Completar satisfactoriamente los **talleres** y **retos** correspondientes a cada nivel para poder avanzar al siguiente.
 5. **Documentación del Aprendizaje**: Realizar un **write-up** sobre lo aprendido en cada taller o actividad y subirlo a la **documentación de GitHub**.
 6. **Compromiso con el Espacio Asignado**: Hacer **buen uso** del laboratorio y recursos proporcionados para el desarrollo de talleres y proyectos.
-7. **Respeto al código de conducta**: Se requiere a los miembros y contribuyentes el cumplimiento del [código de conducta](https://github.com/IberoGIC/gic-general/blob/main/CODE_OF_CONDUCT.md) para hacer que la participación en nuestra comunidad sea una experiencia libre de acoso para todo el mundo.
-8. **Responsabilidad Legal**: El GIC y la Universidad Iberoamericana CDMX **se deslindan** de las actividades de los miembros que no estén alineadas con las reglas del grupo o de la universidad y que puedan atentar contra individuos, organizaciones o la seguridad en general.
+7. **Respeto al código de conducta**: Se requiere a los miembros y colaboradores el cumplimiento del [código de conducta](https://github.com/IberoGIC/gic-general/blob/main/CODE_OF_CONDUCT.md) para hacer que la participación en nuestra comunidad sea una experiencia libre de acoso para todo el mundo.
+---
+### **Responsabilidad Legal**
+
+El **GIC**, junto con la **Universidad Iberoamericana**, se deslinda de cualquier actividad realizada por sus miembros que no esté alineada con las políticas internas del grupo o las normativas institucionales de la universidad, especialmente aquellas que puedan comprometer la seguridad de personas, organizaciones o sistemas en general. Los miembros que no cumplan con las reglas establecidas serán inmediatamente excluidos del grupo y podrán enfrentar sanciones adicionales conforme a lo dispuesto por las autoridades universitarias.
 
 ---
 

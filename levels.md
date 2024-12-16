@@ -33,7 +33,7 @@ Cada nivel se compone de:
 * Sistema de archivos de Linux y permisos
 * Principios de redes y protocolos
 * Entendimiento básico de codificación (UTF-8, ASCII, Base64, etc.)
-- Uso de Git y GitHub.
+* Uso de Git y GitHub
 
 ### **Retos y Ejercicios**
 
