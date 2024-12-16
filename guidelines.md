@@ -27,7 +27,8 @@ Para ser miembro activo del GIC, es necesario cumplir con las siguientes condici
 4. **Progreso por Niveles**: Completar satisfactoriamente los **talleres** y **retos** correspondientes a cada nivel para poder avanzar al siguiente.
 5. **Documentación del Aprendizaje**: Realizar un **write-up** sobre lo aprendido en cada taller o actividad y subirlo a la **documentación de GitHub**.
 6. **Compromiso con el Espacio Asignado**: Hacer **buen uso** del laboratorio y recursos proporcionados para el desarrollo de talleres y proyectos.
-7. **Responsabilidad Legal**: El GIC y la Universidad Iberoamericana CDMX **se deslindan** de las actividades de los miembros que no estén alineadas con las reglas del grupo o de la universidad y que puedan atentar contra individuos, organizaciones o la seguridad en general.
+7. **Respeto al código de conducta**: Se requiere a los miembros y contribuyentes el cumplimiento del [código de conducta](https://github.com/IberoGIC/gic-general/blob/main/CODE_OF_CONDUCT.md) para hacer que la participación en nuestra comunidad sea una experiencia libre de acoso para todo el mundo.
+8. **Responsabilidad Legal**: El GIC y la Universidad Iberoamericana CDMX **se deslindan** de las actividades de los miembros que no estén alineadas con las reglas del grupo o de la universidad y que puedan atentar contra individuos, organizaciones o la seguridad en general.
 
 ---
 

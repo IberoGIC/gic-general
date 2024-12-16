@@ -15,12 +15,14 @@ Bienvenido al repositorio principal del **GIC**. Este repositorio funciona como 
 |	├── 📄 git-manual.md   # Guía para trabajar con git
 |	|...
 |
+├── 📄 CODE_OF_CONDUCT.md  # Código de conducta para los miembros y
+|                            colaboradores del GIC
 ├── 📄 LICENSE             # Licencia para modificar y distrubuir los archivos
 |                            de este repositorio
 ├── 📄 README.md           # Este archivo
 ├── 📄 contributing.md     # Guía para contribuir a los proyectos
 ├── 📄 first-steps.md      # Guía para nuevos miembros del grupo
-├── 📄 guidelines.md       # Manual de conducta para los miembros del GIC
+├── 📄 guidelines.md       # Reglamento para los miembros del GIC
 ├── 📄 levels.md           # Explicación de los niveles y enlaces a los recursos
 |                            por nivel
 ├── 📄 roadmap.md          # Plan y progreso de los proyectos
