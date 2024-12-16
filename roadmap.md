@@ -16,11 +16,11 @@ Este documento presenta el plan de trabajo y los objetivos generales del **GIC (
 
 La progresión del grupo está estructurada en **5 niveles**, cada uno con temas específicos, ejercicios y retos prácticos. A continuación, se enlazan los repositorios asignados para cada nivel:
 
-- **Nivel 1 - Fundamentos**: [Enlace al Repositorio Nivel 1](#)
-- **Nivel 2 - Habilidades Intermedias**: [Enlace al Repositorio Nivel 2](#)
-- **Nivel 3 - Habilidades Avanzadas**: [Enlace al Repositorio Nivel 3](#)
-- **Nivel 4 - Especialización**: [Enlace al Repositorio Nivel 4](#)
-- **Nivel 5 - Proyectos Colaborativos**: [Enlace al Repositorio Nivel 5](#)
+- **Nivel 1 - Fundamentos**: [Enlace al Repositorio Nivel 1](https://github.com/IberoGIC/gic-level-1)
+- **Nivel 2 - Básico**: [Enlace al Repositorio Nivel 2](https://github.com/IberoGIC/gic-level-2)
+- **Nivel 3 - Intermedio**: [Enlace al Repositorio Nivel 3](https://github.com/IberoGIC/gic-level-3)
+- **Nivel 4 - Avanzado**: [Enlace al Repositorio Nivel 4](https://github.com/IberoGIC/gic-level-4)
+- **Nivel 5 - Experto**: [Enlace al Repositorio Nivel 5](https://github.com/IberoGIC/gic-level-5)
 
 ---
 
