@@ -1,6 +1,4 @@
-## **🛠️ Guía de Contribución**
-  
-  Aquí encontrarás las pautas y recomendaciones para colaborar de manera efectiva a los distintos repositorios del grupo.
+Aquí encontrarás las pautas y recomendaciones para colaborar de manera efectiva a los distintos repositorios del grupo.
   
 ---
 ### **📋 Requisitos básicos**
