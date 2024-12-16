@@ -5,21 +5,25 @@ Bienvenido al repositorio principal del **GIC**. Este repositorio funciona como 
 ---
 ## 🐺 **¿Eres nuevo por aquí?**
 
-¡Bienvenido al grupo! ✨ Te recomendamos explorar la carpeta **Resources/** donde encontrarás todo lo necesario para dar tus primeros pasos y comenzar a contribuir.
+¡Bienvenido al grupo! ✨ Te recomendamos explorar [first-steps.md](https://github.com/IberoGIC/gic-general/blob/main/first-steps.md) donde encontrarás todo lo necesario para dar tus primeros pasos y comenzar a contribuir.
 
 ---
 ## 🗂️ **Distribución del Repositorio**
 ```plaintext
 📂 gic-general/
-├── 📄 README.md           # Este archivo
-├── 📄 contributing.md     # Guía para contribuir a los proyectos
-├── 📄 roadmap.md          # Plan y progreso de los proyectos
-├── 📄 levels.md           # Explicación de los niveles y enlaces a los recursos
-|                            por nivel
 ├── 📂 Resources/          # Teoría, tutoriales, herramientas, etc.
 |	├── 📄 git-manual.md   # Guía para trabajar con git
 |	|...
 |
+├── 📄 LICENSE             # Licencia para modificar y distrubuir los archivos
+|                            de este repositorio
+├── 📄 README.md           # Este archivo
+├── 📄 contributing.md     # Guía para contribuir a los proyectos
+├── 📄 first-steps.md      # Guía para nuevos miembros del grupo
+├── 📄 guidelines.md       # Manual de conducta para los miembros del GIC
+├── 📄 levels.md           # Explicación de los niveles y enlaces a los recursos
+|                            por nivel
+├── 📄 roadmap.md          # Plan y progreso de los proyectos
 └── 📄 projects.md         # Enlaces a proyectos grupales e individuales
 ```
 
